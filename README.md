@@ -15,6 +15,6 @@
 `yarn lint`
 
 ### Details
-[NextJS with styled-component Link](https://github.com/vercel/next.js/blob/master/examples/with-styled-components/pages/_document.js)
+[How to config NextJS with styled-component Link](https://github.com/vercel/next.js/blob/master/examples/with-styled-components/pages/_document.js)
 
-[Custom document NextJS](https://nextjs.org/docs/advanced-features/custom-document)
+[How to config Custom document NextJS](https://nextjs.org/docs/advanced-features/custom-document)
